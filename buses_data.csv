@@ -1,0 +1,135 @@
+﻿Bus No,Start  Place,Start Time,Reach Time,Waiting Time(in min or sec),Bus Speed,Travelling Time,Notifying Time
+1A,Vuyyuru Bus stand,5:45,5:45,0,40,85 mins,5:40
+1A,Vuyyuru Masid,5:45,5:49,1,35,83 mins,5:42
+1A,Katuru Rd Centre,5:49,5:56,0,30,81 mins,5:44
+1A,Gandigunta,5:56,6:05,0:45,40,74 mins,5:54
+1A,China Ogirala,6:05,6:11,0:25,50,65 mins,6:05
+1A,Akunuru ,6:11,6:15,0,45,59 mins,6:06
+1A,Peda Ogirala,6:15,6:20,0,45,55 mins,6:00
+1A,Neppalli Masid,6:20,6:25,1,40,50 mins,6:15
+1A,Prodduturu X road,6:25,6:28,0:30,35,45 mins,6:20
+1A,Kankipadu Petrol Bunk,6:28,6:30,0:52,30,42 mins,6:23
+1A,Kankipadu Bus Stand ,6:30,6:32,1,30,40 mins,6:25
+1A,Gosala,6:32,6:35,0:32,40,38 mins,6:27
+1A,Edupugallu,6:35,6:37,0:15,35,35 mins,6:30
+1A,Gangur,6:37,6:40,0,45,33 mins,6:32
+1A,Penamaluru,6:40,6:42,1:25,30,30 mins,6:35
+1A,Seethapuram colony,6:42,6:45,0:30,35,28 mins,6:37
+1A,Krishnaveni convent,6:45,6:47,0:20,40,20 mins,6:40
+1B,Tumulu,6:22,6:25,0:28,30,38 mins,6:17
+1B,Tadigadapa,6:25,6:27,0:49,30,35 mins,6:20
+1B,VRSE,6:27,6:30,1:20,45,33 mins,6:22
+1B,Kamaiah Thopu,6:30,6:32,0:48,45,30 mins,6:25
+1B,Pappula Mill,6:32,6:35,1:18,40,28 mins,6:27
+1B,Time Hospital,6:35,6:37,1:20,40,25 mins,6:30
+1B,Chowdary Pet,6:37,6:40,1:14,35,23 mins,6:32
+1B,Old Check Post,6:40,6:42,0:29,35,20 mins,6:35
+1C,Autonagar Gate,6:30,6:33,0:57,35,30 mins,6:25
+1C,High School Road ,6:33,6:35,0:29,40,27 mins,6:28
+1C,Postal Colony,6:35,6:37,0:30,40,25 mins,6:30
+1C,Patamata ,6:37,6:38,0:58,30,23 mins,6:32
+1C,NTR Circle,6:38,6:40,1:10,45,22 mins,6:33
+1C,Eenadu,6:40,6:42,1:18,45,20 mins,6:35
+2AB,E.S.I,6:25,6:27,0:28,30,35 mins,6:20
+2AB,Gunadala,6:27,6:29,0:54,35,33 mins,6:22
+2AB,Padavala Revu,6:29,6:31,0:10,40,31 mins,6:24
+2AB,Machavaram Down,6:31,6:32,1:05,45,29 mins,6:26
+2AB,SRR. College,6:32,6:34,1:10,35,28 mins,6:27
+2AB,Maruthi Nagar,6:34,6:36,0:48,30,26 mins,6:29
+2AB,Nimma thota,6:36,6:38,0:05,40,24 mins,6:31
+2AB,Chuttugunta,6:38,6:40,0:36,35,22 mins,6:33
+2AB,Sitarampuram,6:40,6:41,1:08,35,20 mins,6:35
+2AB,Kothavantena ,6:41,6:42,1:15,35,19 mins,6:36
+2AB,VijayaTalkies,6:42,6:44,0:45,40,18 mins,6:37
+2AB,Rama Mandiram ,6:44,6:46,0:12,45,16 mins,6:39
+2AB,Manipal Hospital,6:46,6:47,0:29,30,14 mins,6:41
+2AB,Tadepalli X Roads ,6:47,6:48,0,30,13 mins,6:42
+2AB,Highway Towers,6:48,6:50,0:48,30,11 mins,6:43
+2AB,Aravinda School,6:50,6:57,0:52,30,9 mins,6:45
+2AB,Kunchanapalli,6:57,6:58,0:42,30,6 mins,6:52
+3AB,ITI Bus Stop,6:25,6:27,0:28,30,46 mins,6:20
+3AB,Bank Centre,6:27,6:28,0:32,35,44 mins,6:22
+3AB,Sunnapubattilu,6:28,6:30,0:15,35,43 mins,6:23
+3AB,Siddhartha Arts College,6:30,6:32,0:47,30,41 mins,6:25
+3AB,Jemmichettu,6:32,6:35,0:58,40,39 mins,6:27
+3AB,Madhu Gardens,6:35,6:37,1:05,40,36 mins,6:30
+3AB,Moghalrajpuram,6:37,6:42,1:15,30,34 mins,6:32
+3AB,Sikamani Centre,6:42,6:46,0:28,35,29 mins,6:37
+3AB,Red Circle ,6:46,6:51,0:10,40,25 mins,6:41
+3AB,CP Bangla,6:51,6:53,0:35,35,20 mins,6:46
+4AB,Peda Avutupalli,6:00,6:05,0:26,30,75 mins,5:55
+4AB,Vidya nagar,6:05,6:10,0:42,30,70 mins,6:00
+4AB,Gannavaram Venkateswara Talkies,6:10,6:15,0:10,30,65 mins,6:05
+4AB,Gandhi bomma CentreDown hostel,6:15,6:20,1,35,60 mins,6:10
+4AB,Kesarapalli,6:20,6:25,1:07,35,55 mins,6:15
+4AB,Gudavalli,6:25,6:30,1:15,40,50 mins,6:20
+4AB,Nidamanuru,6:30,6:35,0:58,40,45 mins,6:25
+4AB,Enikepadu,6:35,6:40,1:25,40,40 mins,6:30
+4AB,SER Centre,6:40,6:45,0:39,25,35 mins,6:35
+4AB,Prasadampadu,6:45,6:54,0:47,35,30 mins,6:40
+4CD,Ankamma temple,6:25,6:28,0:15,30,40 mins,6:20
+4CD,Ramavarrapadu Bunk,6:28,6:30,0:25,30,38 mins,6:23
+4CD,Currency Nagar,6:30,6:32,0:49,25,35 mins,6:25
+4CD,NTR Health University,6:32,6:34,1,35,33 mins,6:27
+4CD,Bank Colony,6:34,6:36,0:48,35,31 mins,6:29
+4CD,Vinayak Theatre,6:36,6:40,0:37,35,29 mins,6:31
+4CD,Sri Nagar Colony,6:40,6:42,0:25,40,25 mins,6:35
+4CD,Ramesh Hospital,6:42,6:43,0:30,40,23 mins,6:37
+4CD,Stella College,6:43,6:44,0:20,30,22 mins,6:38
+4CD,Talwakers,6:44,6:46,0,30,21 mins,6:39
+4CD,Screw Bridge,6:46,6:47,1,30,19 mins,6:41
+4CD,Balaji Nagar,6:47,6:50,1:15,35,18 mins,6:42
+4CD,Ice Factory,6:50,6:52,0:15,35,15 mins,6:45
+5A,Varun Motors,6:30,6:32,0:30,40,30 mins,6:25
+5A,P&T Quarters,6:32,6:35,0:15,40,28 mins,6:27
+5A,D.V. Manor,6:35,6:37,0:18,40,25 mins,6:30
+5A,Kandhari,6:37,6:39,0:20,25,23 mins,6:32
+5A,Chennupati Petrol Bunk,6:39,6:42,0:10,25,21 mins,6:34
+5A,Veterinary Hospital,6:42,6:48,0:37,30,18 mins,6:37
+6A,Nunna,6:00,6:04,1:20,35,60 mins,5:55
+6A,Bodapadu,6:04,6:06,0:25,40,55 mins,5:59
+6A,Power Grid,6:06,6:12,0:42,35,53 mins,6:01
+6A,LBS Nagar,6:12,6:15,0:58,35,51 mins,6:07
+6A,Payakapuram,6:15,6:17,0:10,35,45 mins,6:10
+6A,Prakash Nagar,6:17,6:18,1,30,42 mins,6:10
+6A,Pipula Road,6:18,6:20,1:08,30,40 mins,6:13
+6A,Ajith Singh Nagar,6:20,6:22,1:15,40,39 mins,6:15
+6A,Daba Kotlu Centre ,6:22,6:25,1:15,35,37 mins,6:17
+6A,Budameru Bridge,6:25,6:30,0:10,30,35 mins,6:20
+6A,Raghavendra Theatre,6:30,6:38,0:20,35,30 mins,6:25
+6B,Prabhas College,6:20,6:22,0:56,35,33 mins,6:15
+6B,Sitanna Pet Gate,6:22,6:25,0,30,31 mins,6:17
+6B,Ambedkar Statue,6:25,6:28,1:02,30,29 mins,6:20
+6B,Eluru Locks,6:28,6:30,0:35,30,26 mins,6:23
+6B,Challapalli Bunglow,6:30,6:32,0:26,45,23 mins,6:25
+6B,Bundar Lakulu,6:32,6:35,1:08,40,21 mins,6:17
+6B,Fire Station,6:35,6:38,1:16,40,19 mins,6:30
+6B,American Hospital,6:38,6:42,0:38,35,16 mins,6:33
+6C,Sangeetha Kalasala (Food Junction),6:25,6:30,1:40,30,31 mins,6:20
+6D,Madhura Nagar,6:28,6:30,0:46,30,28 mins,6:15
+6D,Kotha Vanthena,6:30,6:31,1:05,25,25 mins,6:20
+6D,Inox (Urvasi Theatre),6:31,6:32,1:26,30,24 mins,6:25
+6D,Alankar Theatre,6:32,6:36,1:18,30,23 mins,6:27
+7A,Sai Baba Temple,6:00,6:05,0:48,35,50 mins,5:55
+7A,B. Colony Center ,6:05,6:08,0:24,40,46 mins,6:00
+7A,A colony Gate ,6:08,6:10,1,30,43 mins,6:03
+7A,IBM (SBI ATM),6:10,6:13,1:27,30,41 mins,6:05
+7A,Tummalapalem,6:13,6:15,0:10,40,39 mins,6:08
+7A, Khazipeta,6:15,6:18,0:52,40,37 mins,6:10
+7A,Guntupalli Center,6:18,6:22,1:25,40,34 mins,6:13
+7A,Wagon Work Shop Road ,6:22,6:25,0:30,35,30 mins,6:17
+7A,Nallakunta-Ayyappa Nagar,6:25,6:30,0:26,35,27 mins,6:20
+7B,Gollapudi One Center ,6:15,6:17,0:29,40,47 mins,6:10
+7B,Mailurai Center,6:17,6:19,0:42,45,45 mins,6:12
+7B,Andhra Hospital,6:19,6:21,0:15,30,43 mins,6:14
+7B,Venkatesh Foundary,6:21,6:24,1:10,35,40 mins,6:14
+7B,Swathi Theatre,6:24,6:27,0:35,40,37 mins,6:19
+7B,Sivalayam ,6:27,6:34,0:28,30,34 mins,6:22
+7B,Joji Nagar Church,6:34,6:40,0:15,30,29 mins,6:29
+7B,Sitara,6:40,6:44,1:03,30,25 mins,6:35
+7C,Chitti Nagar,6:25,6:30,0:25,40,39 mins,6:20
+7C,Vagu Centre,6:30,6:33,0:48,40,34 mins,6:25
+7C,Srinivas Mahal,6:33,6:36,0:52,35,29 mins,6:28
+7C,Panja Centre,6:36,6:38,1:25,30,26 mins,6:31
+7C,Rajakumari Theatre,6:38,6:42,1,40,24 mins,6:33
+7C,K.R. Market ,6:42,6:45,0:37,30,20 mins,6:37
